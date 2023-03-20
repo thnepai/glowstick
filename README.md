@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+OBB: Fix plot_images (#7592)
