@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Add HUB-SDK Docs reference section (#7781)
