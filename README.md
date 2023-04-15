@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+fix for predicting with batch_size > 1 (#47)
