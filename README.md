@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Resize angle, count, and stage on keypoint number change (#7598)
