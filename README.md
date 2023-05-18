@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
