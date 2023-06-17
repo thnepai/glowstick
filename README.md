@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
