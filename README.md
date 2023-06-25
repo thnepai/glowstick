@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Replace onnx2tf usage from CLI to Python (#8429)
