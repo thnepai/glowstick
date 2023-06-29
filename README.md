@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
