@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
