@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Explorer with LanceDB, Actions and Docs updates (#7487)
