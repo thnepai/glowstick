@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
