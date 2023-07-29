@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
