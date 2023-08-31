@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Fix IS_PYTHON_3_12 bug (#9258)
