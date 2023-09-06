@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
