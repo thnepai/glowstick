@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
