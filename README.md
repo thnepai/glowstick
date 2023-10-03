@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
