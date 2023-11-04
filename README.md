@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Clean up unused imgsz (#7771)
