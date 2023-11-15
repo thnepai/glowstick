@@ -1,1 +1,1 @@
-add yolov10
+Capitalize OBB acronym (#7383)
