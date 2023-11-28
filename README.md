@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
