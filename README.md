@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Retry once for Docker CI failures (#8164)
