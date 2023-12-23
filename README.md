@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
