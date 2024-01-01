@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
