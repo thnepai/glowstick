@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
