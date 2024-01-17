@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+OBB: Fix when training on zip data (#8680)
