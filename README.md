@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
