@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
