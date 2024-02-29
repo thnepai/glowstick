@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Expand Model method type hinting (#8279)
