@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
