@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
