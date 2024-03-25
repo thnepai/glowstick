@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
