@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
