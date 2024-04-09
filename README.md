@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
