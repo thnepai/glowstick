@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
