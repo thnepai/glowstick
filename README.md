@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+YOLOv8 INT8 TFLite Inference Example (#7317)
