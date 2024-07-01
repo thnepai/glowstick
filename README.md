@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
