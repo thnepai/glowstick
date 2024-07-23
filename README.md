@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Add PaddlePaddle Docs Integrations Page (#8858)
