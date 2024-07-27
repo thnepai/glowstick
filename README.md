@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Bounding Box to OBB conversion (#7572)
