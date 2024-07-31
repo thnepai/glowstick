@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
