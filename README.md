@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
