@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Update TFLite Docs images (#8605)
