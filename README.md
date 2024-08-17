@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
