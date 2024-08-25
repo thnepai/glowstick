@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Resize angle, count, and stage on keypoint number change (#7598)
