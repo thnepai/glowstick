@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
