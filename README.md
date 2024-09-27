@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
