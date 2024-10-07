@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+OpenVino 2024.0.0 (#8726)
