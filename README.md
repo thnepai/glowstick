@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Hold failed upload metrics and upload with next upload metrics (#8513)
