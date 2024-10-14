@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Allow Annotator PIL.Image inputs (#8397)
