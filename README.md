@@ -1,1 +1,1 @@
-fix val each epoch
+Add docs guide terminal images (#8819)
