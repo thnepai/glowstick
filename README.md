@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+fix export tensorrt with dynamic size
