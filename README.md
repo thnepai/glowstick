@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+docs: update view-results-in-terminal.md (#66)
